@@ -33,7 +33,8 @@ It integrates with **AWS ECS, S3, Kafka, Prisma, and ClickHouse** to deliver **f
 - **Socket.IO** – real-time log streaming  
 
 ---
-
+##  🖼️ Architecture design
+![devploy -backend Architecture][https://github.com/BalrajMahto/Devploy-AWS-KAFKA-backend/blob/c61ea5c3aec49b219736e37c34364c9fd958255c/architecture.png]
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
